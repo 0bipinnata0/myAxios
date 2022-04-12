@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 5436,
+      "title": "Tue Apr 12 2022 12:28:54 GMT+0800 (中国标准时间)",
+      "author": "866"
+    },
+    {
+      "id": 8009,
+      "title": "Tue Apr 12 2022 12:29:06 GMT+0800 (中国标准时间)",
+      "author": "486"
+    },
+    {
+      "id": 6503,
+      "title": "Tue Apr 12 2022 12:31:56 GMT+0800 (中国标准时间)",
+      "author": "724"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
